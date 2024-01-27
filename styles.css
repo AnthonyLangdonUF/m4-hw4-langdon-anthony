@@ -1,0 +1,9 @@
+body, footer {
+    background-color: lightcyan;
+    color: darkslategrey;
+    width: 900px;
+    margin: auto;
+}
+section > article > h3 {
+    color: purple;
+}
